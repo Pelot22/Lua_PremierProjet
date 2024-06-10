@@ -18,3 +18,5 @@ end
 
 function love.keypressed(key)
 end
+
+print(10)
